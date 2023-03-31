@@ -25,4 +25,7 @@ Tkinter is the standard GUI library for Python.
 
 the realtime database is in test mode so is open to be modified or read.
 
+venv.zip is compressed folder of all the dependencies.
+pls extract
+
 
